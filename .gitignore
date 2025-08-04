@@ -1,0 +1,12 @@
+.env
+keylogger.spec
+
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+env/
+.env/
+build/
+dist/
